@@ -1,10 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning full stack development <br><br>💬 Ask me about development<br><br>📫 How to reach me tamil6268@gmail.com
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=TAMILARASAN&label=Profile%20Views&pretty=true" />
-</a>
-[![](https://visitcount.itsvg.in/api?id=TAMILARASAN&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakthiselvitamil39) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Tamil6268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SAKTHISELVITAM2) 
 
@@ -26,3 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TAMILARASAN S&icon=5&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TAMILARASAN&label=Profile%20Views&pretty=false" />
+</a>
