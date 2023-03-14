@@ -22,7 +22,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TAMILARASAN S&icon=5&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Heisenberg&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=TAMILARASAN&label=Profile%20Views&pretty=false" />
 </a>
