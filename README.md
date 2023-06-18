@@ -59,9 +59,9 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  /> -->
 </div>
 # 📊 GitHub Stats:
-
-<img align="right" height="auto" width="auto" src="https://www.tnsc-innovation.com/wp-content/uploads/2021/08/1060479100-sd.gif"  />
-
+##
+<img align="center" height="auto" width="auto" src="https://www.tnsc-innovation.com/wp-content/uploads/2021/08/1060479100-sd.gif"  />
+##
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TAMILARASAN S&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
