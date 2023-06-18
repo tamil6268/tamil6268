@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack development <br><br>💬 Ask me about development<br><br>📫 How to reach me tamil6268@gmail.com
+🌱 I’m currently learning full stack development <br><br>💬 Ask me about development<br><br>📫 How to reach me ts7371797@gmail.com
 ###
 
 <img align="right" height="150" src="https://64.media.tumblr.com/3d4d824f109c46f280047f2a94135c27/tumblr_nlptn4t5Ug1relaado1_400.gif"  />
@@ -59,9 +59,8 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  /> -->
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TAMILARASAN S&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TAMILARASAN S&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMILARASAN S&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img align="right" height="auto" width="auto" src="https://www.tnsc-innovation.com/wp-content/uploads/2021/08/1060479100-sd.gif"  />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TAMILARASAN S&theme=radical&no-frame=false&no-bg=false&margin-w=4)
