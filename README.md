@@ -1,6 +1,10 @@
 # 💫 About Me:
 🌱 I’m currently learning full stack development <br><br>💬 Ask me about development<br><br>📫 How to reach me tamil6268@gmail.com
+###
 
+<img align="right" height="150" src="https://64.media.tumblr.com/3d4d824f109c46f280047f2a94135c27/tumblr_nlptn4t5Ug1relaado1_400.gif"  />
+
+###
 
 ## 🌐 Socials:
 
@@ -66,20 +70,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-
-<h3 align="center">Hi 👋! My name is TAMILARASAN S and I'm a FULL STACK DEVELOPER(MERN) from TAMILNADU</h3>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/3d4d824f109c46f280047f2a94135c27/tumblr_nlptn4t5Ug1relaado1_400.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
