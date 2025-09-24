@@ -12,7 +12,7 @@
 <div align="left">
   <a href="mailto:ts7371797@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"/></a>
   <a href="https://www.linkedin.com/in/tamilarasan-s"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/></a>
-  <a href="#"><img src="https://tamilmerndeveloper.vercel.app/" height="35" alt="portfolio"/></a>
+  <a href="https://tamilmerndeveloper.vercel.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio"/></a>
 </div>
 
 ---
